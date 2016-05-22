@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 test use git@github.com to push
 Creating a new branch is quick.
+test git without passpharse
